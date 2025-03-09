@@ -1,3 +1,5 @@
+V2.0
+
 1. Ajout d’une fonction de filtrage par catégorie.
 
 2. Refonte du système d’appel à la base de données et d’attribution des variables.
@@ -7,3 +9,9 @@
 4. Ajout d’un bouton « Passer » pour changer de mot.
 
 5. Ajout d’un message affichant la réponse attendue quand l’utilisateur se trompe.
+
+V2.5
+
+1. Ajout de la catégorie "Toutes les catégories".
+
+2. Agrandissement de la base de données jusqu'à 498 mots.
